@@ -1,0 +1,10 @@
+{
+  "auth": {
+    "ampliftreactproject51bd92e3": {
+      "service": "Cognito",
+      "providerPlugin": "awscloudformation",
+      "dependsOn": [],
+      "customAuth": false
+    }
+  }
+}
